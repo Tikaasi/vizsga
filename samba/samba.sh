@@ -19,3 +19,4 @@ chown user2 /srv/user2
 chmod 700 /srv/user2
 smbpasswd -a user2
 sudo service smbd restart
+ifconfig
